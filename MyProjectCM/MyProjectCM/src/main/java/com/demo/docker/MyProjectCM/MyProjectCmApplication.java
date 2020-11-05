@@ -17,8 +17,8 @@ public class MyProjectCmApplication {
 		return "Hello World";
 		}
 	
-	 @Value("${spring.mail.username}")
-	private String senderUsername;
+	
+	private String senderUsername ="Shivi";
 	
 	
 	
